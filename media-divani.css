@@ -1,0 +1,292 @@
+@media (max-width: 480px) {
+   
+    .logo{
+        /* border: 1px red solid; */
+        margin-left: 0;
+    }
+    
+    header{
+        max-width: 320px;
+    }
+   
+    .container{
+        width: 320px;
+        margin-left: 0;
+        padding-left: 0;
+        margin-top: 0;
+        /* border: 1px green solid; */
+    }
+    .header-top{
+        width: 320px;
+        height: 106px;
+        /* border: 1px red solid; */
+        margin-left: 0;
+        flex-direction: column;
+    }
+
+    .section{
+        width: 320px;
+        min-height: 200px;
+        margin-left: 0;
+        /* border: 1px red solid; */
+
+    }
+    .section1{
+        width: 320px;
+        min-height: 200px;
+        margin-left: 0;
+        /* border: 1px red solid; */
+    }
+    .iphone{
+        display: flex;
+        flex-direction: column;
+        margin-left: 0;
+        max-width: 320px;
+
+    }
+    .iphones{
+        width: 290px;
+        margin-left: 10px;
+    }
+    .iphones h3{
+        font-size: 16px;
+    }
+    .iphones p{
+        font-size: 9px;
+    }
+    .iphones h4{
+        font-size: 16px;
+    }
+    .buy{
+        font-size: 12px;
+        padding: 9px 30px;
+    }
+    .me-3{
+        width: 300px;
+        margin-left: 0;
+        flex-wrap: nowrap;
+        overflow-x: auto;
+        gap: 10px;
+    }
+    .sozvonitsya show{
+        inset: none;
+        display: none;
+    }
+
+    .show{
+        inset: 40px auto auto 9px !important;
+    }
+
+    .xarakteristiki{
+        font-size: 12px;
+        padding: 3px 3px 3px 0px;
+    }
+    .otzivi2{
+        font-size: 12px;
+        padding: 2px 2px 2px 0px;
+    }
+
+    .dostavka-i-oplata{
+        font-size: 12px;
+        padding: 1px 1px 1px 0px;
+    }
+
+    .mini-pic{
+        padding: 2px 5px 2px 5px;
+    }
+    .main-img{
+        width: 266px;
+        height: 110px;
+        margin-left: auto;
+
+    }
+    .search{
+        width: 300px;
+        height: 45px;
+        margin-left: 10px;
+        /* border: 1px red solid; */
+    }
+    .search input{
+        width: 290px;
+        height: 40px;
+    }
+    .nav-pills{
+        max-width: 300px;
+        margin-left: 10px;
+    }
+
+    .logo img{
+        width: 100px;
+        height: 22px;
+    }
+    .icon{
+        width: 95px;
+        height: 20px;
+        margin-left: 0;
+        margin-right: 1px !important;
+        gap: 0px;
+    }
+    .footer{
+        margin-top: 40px;
+        width: 320px;
+        /* border: 1px red solid; */
+    }
+    .main-footer{
+        width: 319px;
+        /* border: 1px green solid; */
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .item{
+        border: 0.5px rgb(194, 194, 194) solid;
+        width: 146px;
+        height: 220px;
+        margin-bottom: 20px;
+        border-radius: 0px;
+        display: flex;
+        justify-content: flex-end;
+    }
+    .item h6{
+        height: 17px !important;
+        font-size: 16px !important;
+        font-style: normal !important;
+        font-weight: 600 !important;
+        margin: 0 auto !important;
+        margin-left: 0 !important;
+        margin-top: 10px !important;
+        padding: 0 0 0 4px;
+    }
+
+    .more{
+        font-size: 16px;
+        padding: 2px 5px;
+        background: #245462;
+        border: none;
+        width: 135px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        color: white;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+
+    .footer-img{
+        width: 100px;
+        height: 100px;
+        /* border: 1px red solid; */
+        padding: 1px 1px 1px 1px;
+    }
+    .footer h2{
+        font-size: 22px;
+        font-weight: 700;
+        font-style: normal;
+        line-height: normal;
+        padding: 0 0 0 10px;
+        margin-bottom: 15px;
+    }
+
+    .item p{
+        margin-left: 0;
+        padding: 0 0 0 4px;
+
+    }
+    .item img{
+        width: 94px;
+        height: 71px;
+        margin-top: 10px;
+    }
+    .carousel-inner{
+        width: 300px;
+        height: 126px;
+        margin-left: 0;
+    }
+    .main1{
+        width: 320px;
+        height: 66px;
+        margin-top: 0;
+        /* border: 1px blue solid; */
+        margin-left: 0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .header-down{
+        width: 335px;
+        height: 66px;
+        margin-left: 0;
+    }
+    .knopka{
+        font-weight: 400;
+        font-size: 9px;
+        line-height: 11px;
+        color: #414141;
+    }
+
+    .header-down{
+        display: none;
+    }
+    .header-down-media{
+        display: block;
+    }
+
+    .divani{
+        display: none;
+    }
+    .divani320{
+        display: block;
+    }
+
+    .tab-content{
+        width: 320px;
+        min-height: 200px;
+        display: flex;
+        flex-direction: column !important;
+    }
+
+    .vvv{
+        display: flex !important;
+        flex-direction: column !important;
+    }
+
+    .beget{
+        display: flex;
+        flex-direction: column;
+    }
+
+    
+    .sozvonitsya{
+        flex-direction: column;
+    }
+    .zona1 a{
+        margin-left: 0 !important;
+    }
+    .prostom{
+        font-size: 12px;
+        width: 290px;
+        height: 500px;
+        /* border: 1px blue solid; */
+    }
+
+    .main-zona{
+        height: 550px;
+    }
+    .zona{
+        height: 550px;
+    }
+
+    .class-tehnik{
+        height: 550px;
+    }
+}
+
+/* @media (min-width: 768px){
+    .divani{
+        display: block;
+    }
+    .divani320{
+        display: none;
+    }
+}
+     */
+

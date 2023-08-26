@@ -1,0 +1,75 @@
+@media (max-width: 320px) {
+    .top{
+        width: 320px;
+        border: 1px red solid;
+        display: none;
+    }
+    .left-top{
+        width: 100%;
+    }
+
+
+    .search{
+        width: 300px;
+        height: 45px;
+        margin-left: 0;
+    }
+    .search input{
+        width: 290px;
+        height: 40px;
+    }
+
+    .logo img{
+        width: 100px;
+        height: 22px;
+    }
+    .icon{
+        width: 95px;
+        height: 20px;
+        /* border: 1px red solid; */
+        margin-left: 195px;
+    }
+    .carousel-inner{
+        width: 300px;
+        height: 126px;
+        margin-left: 0;
+    }
+
+    .header-down{
+        width: 335px;
+        height: 66px;
+        margin-left: 0;
+    }
+    .knopka{
+        font-weight: 400;
+        font-size: 9px;
+        line-height: 11px;
+        color: #414141;
+    }
+
+    .header-down{
+        display: none;
+    }
+    .header-down-media{
+        display: block;
+    }
+    /* .container{
+        width: 320px;
+        height: 27px;
+    } */
+    /* .content{
+        width: 320px;
+    } */
+
+    .sayt{
+        display: none;
+    }
+    .sayt-media{
+        display: block;
+    }
+
+    
+}
+
+    
+
